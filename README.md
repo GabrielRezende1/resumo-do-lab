@@ -16,4 +16,6 @@ Aos poucos estou aprendendo alguns conceitos dentro do ambiente de desenvolvimen
 - Regiões, Pares de Regiões, Zonas de Disponibilidade, Regiões Soberanas  
 - Assinaturas do Azure, Grupos de Gerenciamento  
 - Grupos de Recursos
-- Máquinas Virtuais (VMs), Contêineres e Funções
+- Máquinas Virtuais (VMs) e seus conjuntos de disponibilidade
+- Área de Trabalho Virtual, Contêineres e Funções
+- Serviços de Aplicativos
