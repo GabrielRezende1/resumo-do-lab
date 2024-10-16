@@ -19,3 +19,6 @@ Aos poucos estou aprendendo alguns conceitos dentro do ambiente de desenvolvimen
 - Máquinas Virtuais (VMs) e seus conjuntos de disponibilidade
 - Área de Trabalho Virtual, Contêineres e Funções
 - Serviços de Aplicativos
+- Redundância e Serviços de Armazenamento  
+- Pontos de Extremidade Públicos e Camadas de Acesso de Armazenamento
+- Migrações e Gerenciamento de Arquivos  
