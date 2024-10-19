@@ -21,4 +21,10 @@ Aos poucos estou aprendendo alguns conceitos dentro do ambiente de desenvolvimen
 - Serviços de Aplicativos
 - Redundância e Serviços de Armazenamento  
 - Pontos de Extremidade Públicos e Camadas de Acesso de Armazenamento
-- Migrações e Gerenciamento de Arquivos  
+- Migrações e Gerenciamento de Arquivos
+- Microsoft Entra ID e Domain Services
+- SSO (Single Sign-On), MFA (Multi-Factor Authentication) e Sem Senha
+- Autenticação e Autorização
+- RBAC (Role Based Access Control)
+- Confiança Zero
+- Acesso Condicional
