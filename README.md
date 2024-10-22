@@ -4,7 +4,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 ### Resumo
 
 Aprendi o básico sobre o funcionamento de serviços em nuvem, além de comandos Git usando Git Bash para publicá-los no GitHub (mesmo já tendo conhecimento). Também houveram duas mentorias ao vivo mostrando a plataforma Azure da Microsoft, nas quais estou me familiarizando.  
-Aos poucos estou aprendendo alguns conceitos dentro do ambiente de desenvolvimento Azure da Microsoft e para que eles são utilizados.
+Estou aprendendo conceitos e recursos dentro do ambiente de desenvolvimento Azure da Microsoft e para que eles são utilizados.
 
 ### Termos ensinados
 
@@ -28,3 +28,5 @@ Aos poucos estou aprendendo alguns conceitos dentro do ambiente de desenvolvimen
 - RBAC (Role Based Access Control)
 - Confiança Zero
 - Acesso Condicional
+- Gerenciamento de Custos, Calculadora TCO (Total Cost Ownership)
+- Tags e Azure MarketPlace
