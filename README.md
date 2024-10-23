@@ -30,3 +30,7 @@ Estou aprendendo conceitos e recursos dentro do ambiente de desenvolvimento Azur
 - Acesso Condicional
 - Gerenciamento de Custos, Calculadora TCO (Total Cost Ownership)
 - Tags e Azure MarketPlace
+- Azure Policy
+- Bloqueio de Recursos
+- Portal de Confiança do Serviço
+- Microsoft Purview
