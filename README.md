@@ -36,3 +36,4 @@ Estou aprendendo conceitos e recursos dentro do ambiente de desenvolvimento Azur
 - Microsoft Purview
 - Portal, PowerShell, CLI
 - Azure Arc, Azure Resource Manager
+- Assistente do Azure, Integridade do Serviço do Azure, Azure Monitor
