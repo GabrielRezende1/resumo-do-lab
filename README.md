@@ -34,3 +34,5 @@ Estou aprendendo conceitos e recursos dentro do ambiente de desenvolvimento Azur
 - Bloqueio de Recursos
 - Portal de Confiança do Serviço
 - Microsoft Purview
+- Portal, PowerShell, CLI
+- Azure Arc, Azure Resource Manager
